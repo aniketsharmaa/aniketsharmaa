@@ -1,7 +1,7 @@
 ### Namaste Guys!! I'm Aniket Sharma...
 
 
-- 🔭 I’m currently working on JavaScript Programs and comptative programming.
+- 🔭 I’m currently working on JavaScript Programs and competative programming.
 - 🌱 I’m currently learning JavaScipt and some of its Framework.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with Python.
